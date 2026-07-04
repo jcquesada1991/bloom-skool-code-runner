@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/playwright/python:v1.49.1-jammy
 
 WORKDIR /app
 
-RUN pip install --no-cache-dir tzdata
+RUN pip install --no-cache-dir tzdata playwright==1.49.1
 
 ENV PYTHONUNBUFFERED=1 \
     PORT=8080 \
