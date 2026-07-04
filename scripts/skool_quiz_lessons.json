@@ -1,5 +1,5 @@
 {
-  "notes": "Current Skool quiz lessons found in The Blooming Spot classroom on 2026-07-04. Add B-F and missing A.6 here after those Skool quiz lessons exist.",
+  "notes": "Current Skool quiz lessons found in The Blooming Spot classroom on 2026-07-04. Section A quiz lessons are mapped A.1-A.8. Add B-F here after those Skool quiz lessons exist.",
   "lessons": [
     {
       "scope": "A.1",
@@ -25,6 +25,11 @@
       "scope": "A.5",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=f8fd237e728f4db6b52a46512dc37ade",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.5&autostart=true"
+    },
+    {
+      "scope": "A.6",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=9580bac45f894e99ba5fae0162b54858",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.6&autostart=true"
     },
     {
       "scope": "A.7",
