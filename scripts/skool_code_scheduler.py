@@ -106,7 +106,12 @@ def run_publish_cycle(reason: str) -> None:
     if completed.stderr:
         print(completed.stderr, file=sys.stderr, flush=True)
     if completed.returncode != 0:
-        raise RuntimeError(f"Skool publisher failed with exit code {completed.returncode}.")
+        output_tail = "\n".join(
+            part.strip()
+            for part in (completed.stdout[-1200:], completed.stderr[-1200:])
+            if part.strip()
+        )
+        raise RuntimeError(f"Skool publisher failed with exit code {completed.returncode}. {output_tail}")
 
     verify_scope(os.environ.get("SKOOL_VERIFY_SCOPE", "A.8"))
     last_run["ok"] = True
