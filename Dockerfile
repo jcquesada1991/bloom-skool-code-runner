@@ -20,4 +20,6 @@ COPY scripts/skool_publish_quiz_code.py scripts/skool_publish_quiz_code.py
 COPY scripts/skool_quiz_lessons.json scripts/skool_quiz_lessons.json
 COPY scripts/skool_code_scheduler.py scripts/skool_code_scheduler.py
 
+EXPOSE 8080
+
 CMD ["python", "scripts/skool_code_scheduler.py"]
