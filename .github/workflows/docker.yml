@@ -25,17 +25,27 @@ jobs:
           tags: bloom-skool-code-runner:smoke
       - name: Smoke test health server
         run: |
+          set +e
           docker run -d --name smoke -p 8080:8080 -e RUN_ON_START=false bloom-skool-code-runner:smoke
           sleep 5
-          curl -fsS http://127.0.0.1:8080/health
+          echo "--- docker ps"
+          docker ps -a
+          echo "--- docker logs"
           docker logs smoke
+          echo "--- curl health"
+          curl -fsS http://127.0.0.1:8080/health
+          status=$?
+          docker logs smoke
+          exit $status
       - name: Login to GHCR
+        if: success()
         uses: docker/login-action@v3
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
       - name: Build and push
+        if: success()
         uses: docker/build-push-action@v6
         with:
           context: .
