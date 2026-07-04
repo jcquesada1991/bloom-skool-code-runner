@@ -1,0 +1,40 @@
+{
+  "notes": "Current Skool quiz lessons found in The Blooming Spot classroom on 2026-07-04. Add B-F and missing A.6 here after those Skool quiz lessons exist.",
+  "lessons": [
+    {
+      "scope": "A.1",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=4cc4445548f748c985c269b05d2a18e0",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.1&autostart=true"
+    },
+    {
+      "scope": "A.2",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=8febfa49cfe741b1bede900b7148aff4",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.2&autostart=true"
+    },
+    {
+      "scope": "A.3",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=fb1251cd553b4d1a99db0fc3d5923568",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.3&autostart=true"
+    },
+    {
+      "scope": "A.4",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=190dec484dbb41138cdae9dd3afd249d",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.4&autostart=true"
+    },
+    {
+      "scope": "A.5",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=f8fd237e728f4db6b52a46512dc37ade",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.5&autostart=true"
+    },
+    {
+      "scope": "A.7",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=fa737a51f5c94d0fb8e5281598bf9fa4",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.7&autostart=true"
+    },
+    {
+      "scope": "A.8",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=fa3575496c7142c4b16d2dbd0f6d8720",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.8&autostart=true"
+    }
+  ]
+}
