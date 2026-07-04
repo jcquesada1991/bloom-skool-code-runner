@@ -2,9 +2,7 @@ FROM mcr.microsoft.com/playwright/python:v1.49.1-jammy
 
 WORKDIR /app
 
-RUN DEBIAN_FRONTEND=noninteractive TZ=America/New_York apt-get update \
-    && apt-get install -y --no-install-recommends tzdata \
-    && rm -rf /var/lib/apt/lists/*
+RUN pip install --no-cache-dir tzdata
 
 ENV PYTHONUNBUFFERED=1 \
     PORT=8080 \
