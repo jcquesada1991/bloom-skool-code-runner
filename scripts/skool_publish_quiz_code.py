@@ -50,11 +50,14 @@ def materialize_storage_state_from_env() -> None:
 
 
 def build_lesson_text(code: str, quiz_url: str) -> str:
+    # Wording/structure kept identical to the live Section-A lessons the students
+    # already see (accents, "este quiz", "Link del quiz:"). Only used for first-time
+    # template setup; the daily cron only swaps the 6 code digits.
     return (
-        "Codigo de acceso para esta quiz\n\n"
-        "Para abrir esta quiz, copia este codigo y pegalo cuando la pagina te lo pida.\n\n"
-        f"Codigo: {code}\n\n"
-        "Link de la quiz:\n"
+        "Código de acceso para este quiz\n\n"
+        "Para abrir este quiz, copia este código y pégalo cuando la página te lo pida.\n\n"
+        f"Código: {code}\n\n"
+        "Link del quiz:\n"
         f"{quiz_url}"
     )
 

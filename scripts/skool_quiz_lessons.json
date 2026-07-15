@@ -1,45 +1,521 @@
 {
-  "notes": "Current Skool quiz lessons found in The Blooming Spot classroom on 2026-07-04. Section A quiz lessons are mapped A.1-A.8. Add B-F here after those Skool quiz lessons exist.",
+  "notes": "Full Skool quiz map (2026-07-14). Two student tiers per subsection: content-course 'X.Y Quiz' (power points + quizzes) and '[QUIZ] X.Y Mini mock' (quiz-only). Same per-scope daily code is published to BOTH. 43 subsections x 2 = 86 lessons. FULL MOCK (exam.html) is code-free and handled separately.",
   "lessons": [
     {
       "scope": "A.1",
+      "tier": "content",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=4cc4445548f748c985c269b05d2a18e0",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.1&autostart=true"
     },
     {
+      "scope": "A.1",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/08a8c486?md=fabb0c7aa31744d3b0d169e56ac3dd47",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.1&autostart=true"
+    },
+    {
       "scope": "A.2",
+      "tier": "content",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=8febfa49cfe741b1bede900b7148aff4",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.2&autostart=true"
     },
     {
+      "scope": "A.2",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/08a8c486?md=ef4e7f1421644b8c8967c13c58712f29",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.2&autostart=true"
+    },
+    {
       "scope": "A.3",
+      "tier": "content",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=fb1251cd553b4d1a99db0fc3d5923568",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.3&autostart=true"
     },
     {
+      "scope": "A.3",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/08a8c486?md=f0aad129d3ff497e820a1a893ffaaad5",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.3&autostart=true"
+    },
+    {
       "scope": "A.4",
+      "tier": "content",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=190dec484dbb41138cdae9dd3afd249d",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.4&autostart=true"
     },
     {
+      "scope": "A.4",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/08a8c486?md=efb1ce2d5f1443f6b6bb5221647229d8",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.4&autostart=true"
+    },
+    {
       "scope": "A.5",
+      "tier": "content",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=f8fd237e728f4db6b52a46512dc37ade",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.5&autostart=true"
     },
     {
+      "scope": "A.5",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/08a8c486?md=6149a57961c34c4ba54256236b9a4131",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.5&autostart=true"
+    },
+    {
       "scope": "A.6",
+      "tier": "content",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=9580bac45f894e99ba5fae0162b54858",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.6&autostart=true"
     },
     {
+      "scope": "A.6",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/08a8c486?md=2bafc6758eb641c1b67ab19330bdd99a",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.6&autostart=true"
+    },
+    {
       "scope": "A.7",
+      "tier": "content",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=fa737a51f5c94d0fb8e5281598bf9fa4",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.7&autostart=true"
     },
     {
+      "scope": "A.7",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/08a8c486?md=19cb3fda44924ef4935b555364806522",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.7&autostart=true"
+    },
+    {
       "scope": "A.8",
+      "tier": "content",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/1e1a36df?md=fa3575496c7142c4b16d2dbd0f6d8720",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.8&autostart=true"
+    },
+    {
+      "scope": "A.8",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/08a8c486?md=ab68042cad6a4b70ad0a27c7bbd7c41f",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=A.8&autostart=true"
+    },
+    {
+      "scope": "B.1",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/924139d0?md=8ad03e7495654379b5542891353132ba",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=B.1&autostart=true"
+    },
+    {
+      "scope": "B.1",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/03df835b?md=d1627394b5a746c48c4482679c82772f",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=B.1&autostart=true"
+    },
+    {
+      "scope": "B.2",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/924139d0?md=1cfe8ecea40d4e6c85451db574b3c1a2",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=B.2&autostart=true"
+    },
+    {
+      "scope": "B.2",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/03df835b?md=680703cdb433408c8be97b4327b218a3",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=B.2&autostart=true"
+    },
+    {
+      "scope": "B.3",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/924139d0?md=536fa81180db4a84a016644969841d2d",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=B.3&autostart=true"
+    },
+    {
+      "scope": "B.3",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/03df835b?md=dd336453fd3845d9a60d50a74106bcfd",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=B.3&autostart=true"
+    },
+    {
+      "scope": "C.1",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=0e4875be18034c5f8f238c9671ce61a3",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.1&autostart=true"
+    },
+    {
+      "scope": "C.1",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=143283f5cc4249959743256307fafb87",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.1&autostart=true"
+    },
+    {
+      "scope": "C.2",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=16d667a5f2494da69acafe7efe0b132f",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.2&autostart=true"
+    },
+    {
+      "scope": "C.2",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=f20d6714d2d24318a512b16705e7c77f",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.2&autostart=true"
+    },
+    {
+      "scope": "C.3",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=aa427b89151e4f3fafb092c781b70ce3",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.3&autostart=true"
+    },
+    {
+      "scope": "C.3",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=6ad8bcb3048f4717bab4944f61bfc88b",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.3&autostart=true"
+    },
+    {
+      "scope": "C.4",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=94bbcfdb191e4990a2af88c81390c6eb",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.4&autostart=true"
+    },
+    {
+      "scope": "C.4",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=bab74188f92246998a9ea6a1e85568bb",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.4&autostart=true"
+    },
+    {
+      "scope": "C.5",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=b954073e19b94b6db02e73f03d274951",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.5&autostart=true"
+    },
+    {
+      "scope": "C.5",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=7b7830c43c9b4252a9a69624ff063173",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.5&autostart=true"
+    },
+    {
+      "scope": "C.6",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=742c3012c20a48f7bee5b020703d4f95",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.6&autostart=true"
+    },
+    {
+      "scope": "C.6",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=28cd9881205c4e20802d91c003c0537d",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.6&autostart=true"
+    },
+    {
+      "scope": "C.7",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=6ebb1071dea94e279f40afb80be3fd34",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.7&autostart=true"
+    },
+    {
+      "scope": "C.7",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=99cd5e091f3d43da9156420166b5a367",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.7&autostart=true"
+    },
+    {
+      "scope": "C.8",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=422dca0a57084e0ab2f2169663ee1e86",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.8&autostart=true"
+    },
+    {
+      "scope": "C.8",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=90d14f8146a64ea8a0987d0b02252a00",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.8&autostart=true"
+    },
+    {
+      "scope": "C.9",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=35f768ee47974913a7d23c76e8f1922a",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.9&autostart=true"
+    },
+    {
+      "scope": "C.9",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=77aeb2d473f94704ad7490c01227d239",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.9&autostart=true"
+    },
+    {
+      "scope": "C.10",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=87f8490dfd5344de912908d80ea838c2",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.10&autostart=true"
+    },
+    {
+      "scope": "C.10",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=decdd5887a4747acbb8557d644e844ed",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.10&autostart=true"
+    },
+    {
+      "scope": "C.11",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/3d509280?md=2eb1839e0a4f416586b076b66eb90a85",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.11&autostart=true"
+    },
+    {
+      "scope": "C.11",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/0f0c000e?md=226a910c197a4de69cde85ec29dad1af",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=C.11&autostart=true"
+    },
+    {
+      "scope": "D.1",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/9daa7c5e?md=bbf48911bbf1493688e9d0f13df42ccd",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.1&autostart=true"
+    },
+    {
+      "scope": "D.1",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/47fdf589?md=35cd92d1285842f38127408b80439fb9",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.1&autostart=true"
+    },
+    {
+      "scope": "D.2",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/9daa7c5e?md=bdca15d6aa2343829035a49615a08ba6",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.2&autostart=true"
+    },
+    {
+      "scope": "D.2",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/47fdf589?md=531ca6359e544a44b3cf5f9c914f401c",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.2&autostart=true"
+    },
+    {
+      "scope": "D.3",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/9daa7c5e?md=f40215c8799f41348fbc963e9fdaaf4a",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.3&autostart=true"
+    },
+    {
+      "scope": "D.3",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/47fdf589?md=95d842b1ea344b5899adbc5b2a8bf320",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.3&autostart=true"
+    },
+    {
+      "scope": "D.4",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/9daa7c5e?md=3c42de6f619441c7b63e2d098816c10f",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.4&autostart=true"
+    },
+    {
+      "scope": "D.4",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/47fdf589?md=45973cd34a3946e08ef20d5d138d8e89",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.4&autostart=true"
+    },
+    {
+      "scope": "D.5",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/9daa7c5e?md=9952f4aa44e54e17a4ec7882541b8a9d",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.5&autostart=true"
+    },
+    {
+      "scope": "D.5",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/47fdf589?md=3fdb1955a12045d8b462f6eddbac0764",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.5&autostart=true"
+    },
+    {
+      "scope": "D.6",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/9daa7c5e?md=04c00af486c24bcc9ed7c19cb7e08724",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.6&autostart=true"
+    },
+    {
+      "scope": "D.6",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/47fdf589?md=1bd7d8e9ba5c465d9e551002fd0c1a82",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.6&autostart=true"
+    },
+    {
+      "scope": "D.7",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/9daa7c5e?md=a62b97ed316d46d8aded745299c84820",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.7&autostart=true"
+    },
+    {
+      "scope": "D.7",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/47fdf589?md=f2318a9470c44e8380cd903d0fb43b59",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=D.7&autostart=true"
+    },
+    {
+      "scope": "E.1",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c90431c6?md=9a53be5d2e014580a2226140190324e2",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=E.1&autostart=true"
+    },
+    {
+      "scope": "E.1",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/faf06f0f?md=a1341f4fcec947b5bd71f2d35e273bae",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=E.1&autostart=true"
+    },
+    {
+      "scope": "E.2",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c90431c6?md=ba2e666fd5234ad89b68d10a21c3c68e",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=E.2&autostart=true"
+    },
+    {
+      "scope": "E.2",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/faf06f0f?md=36f864e38e5e411ca32b9bba35ff946f",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=E.2&autostart=true"
+    },
+    {
+      "scope": "E.3",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c90431c6?md=e793acbd151440b89ab3348f537ff929",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=E.3&autostart=true"
+    },
+    {
+      "scope": "E.3",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/faf06f0f?md=c48d98a506cb45e3ab7925d8b0b7a681",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=E.3&autostart=true"
+    },
+    {
+      "scope": "E.4",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c90431c6?md=8db4d7ee85cf40c4a052fa0ca56e21f4",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=E.4&autostart=true"
+    },
+    {
+      "scope": "E.4",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/faf06f0f?md=2a58bdddc60648e28562c43db1c5cb65",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=E.4&autostart=true"
+    },
+    {
+      "scope": "F.1",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=82eb67ead7024cca92b5d01595234b9b",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.1&autostart=true"
+    },
+    {
+      "scope": "F.1",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=9374452597ad48579026b643785f64af",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.1&autostart=true"
+    },
+    {
+      "scope": "F.2",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=803b4ec754714eb1b628ae50bdfbd469",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.2&autostart=true"
+    },
+    {
+      "scope": "F.2",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=259f93577fe34f538169a2cdaa7d59cc",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.2&autostart=true"
+    },
+    {
+      "scope": "F.3",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=f284edfd49d1450b90b3cbfd95a37a7b",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.3&autostart=true"
+    },
+    {
+      "scope": "F.3",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=f45c3e2b229f43c5a019e854134d9d01",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.3&autostart=true"
+    },
+    {
+      "scope": "F.4",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=21b68ec9b0ed4722b2aa40fbda68103c",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.4&autostart=true"
+    },
+    {
+      "scope": "F.4",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=1a8a15eea32540b0a136952dfd175770",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.4&autostart=true"
+    },
+    {
+      "scope": "F.5",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=4e22cb5ad4e94f7fad61be150ff41610",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.5&autostart=true"
+    },
+    {
+      "scope": "F.5",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=c63a2896a2f44748818b307850014ece",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.5&autostart=true"
+    },
+    {
+      "scope": "F.6",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=7551eb66a5ec434bbfc69e2d6dd7e009",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.6&autostart=true"
+    },
+    {
+      "scope": "F.6",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=afca72b4fd1c4c5cb540bf49dc2b8ded",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.6&autostart=true"
+    },
+    {
+      "scope": "F.7",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=cc073f08a76142c583d2059a876b3bff",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.7&autostart=true"
+    },
+    {
+      "scope": "F.7",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=3b42193d3dc948d8a8fd7fd672b628bc",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.7&autostart=true"
+    },
+    {
+      "scope": "F.8",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=4d6243d977df4b7bbd73e3a0c7a01dea",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.8&autostart=true"
+    },
+    {
+      "scope": "F.8",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=1a7593f537854ab0a08232ab7785567d",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.8&autostart=true"
+    },
+    {
+      "scope": "F.9",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=a90bcc628ec049c78ef3461745bb724d",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.9&autostart=true"
+    },
+    {
+      "scope": "F.9",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=228ef831f50f434590c3e04aaf3bb4d7",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.9&autostart=true"
+    },
+    {
+      "scope": "F.10",
+      "tier": "content",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/175d8b98?md=1304686151ea473f91af07c8153a85c4",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.10&autostart=true"
+    },
+    {
+      "scope": "F.10",
+      "tier": "quiz-only",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=6b93c08b04f8456face619b987836d5c",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.10&autostart=true"
     }
   ]
 }
