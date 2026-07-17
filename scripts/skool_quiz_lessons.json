@@ -1,5 +1,5 @@
 {
-  "notes": "Full Skool quiz map (2026-07-14). Two student tiers per subsection: content-course 'X.Y Quiz' (power points + quizzes) and '[QUIZ] X.Y Mini mock' (quiz-only). Same per-scope daily code is published to BOTH. 43 subsections x 2 = 86 lessons. FULL MOCK (exam.html) is code-free and handled separately.",
+  "notes": "Full Skool quiz map (2026-07-14). Two student tiers per subsection: content-course 'X.Y Quiz' (power points + quizzes) and '[QUIZ] X.Y Mini mock' (quiz-only). Same per-scope daily code is published to BOTH. 43 subsections x 2 = 86 quiz lessons + 1 MOCK full-exam lesson = 87. FULL MOCK (scope MOCK -> exam.html, gated by BLOOM-MOCK code, served by backend /exam/generate) is entry #87.",
   "lessons": [
     {
       "scope": "A.1",
@@ -516,6 +516,12 @@
       "tier": "quiz-only",
       "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/c3ea3240?md=6b93c08b04f8456face619b987836d5c",
       "quiz_url": "https://rbt-slides-studio.netlify.app/quiz?section=F.10&autostart=true"
+    },
+    {
+      "scope": "MOCK",
+      "tier": "mock",
+      "skool_url": "https://www.skool.com/the-blooming-spot-7187/classroom/12ba152b?md=f93f1980268046a98e76a93dfb4cea32",
+      "quiz_url": "https://rbt-slides-studio.netlify.app/exam.html"
     }
   ]
 }
